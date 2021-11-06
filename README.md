@@ -1,4 +1,6 @@
+# CloudGuard Native Terraform Projects
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/3798b2d3-e6de-4564-80d1-6c53d302bd63.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/terraform-cloudguard-native)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/aa4f1b1b-4c46-4f32-8bb8-02fe310200ae.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/terraform-cloudguard-native)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/b9434c9d-458e-45e5-90c2-d40a0c4df348.svg)](https://app.soluble.cloud/repos/details/github.com/dasalebr/terraform-cloudguard-native)  
 # CloudGuard Native Terraform Projects
 This repository is a collection of Terraform automation projects that can be used with CloudGuard Native Solution.    
 hese projects are intended to be used as a template to demonstrate or build a test environment. You will find a description of what each project does in the directories, and if you want (or need) to customize them, you can change defaults in the different __*name-variables.tf*__ files. 
